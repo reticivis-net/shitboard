@@ -1,0 +1,9 @@
+Package: com.melody.shitboard
+Name: shitboard theme
+Version: 1.1
+Architecture: iphoneos-arm
+Description: a "very good" theme
+Author: melody
+Maintainer: melody
+Section: Themes
+Depends: com.anemonetheming.anemone | com.spark.snowboard
