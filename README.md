@@ -1,4 +1,4 @@
-# shitboard
+# ![Shitboard](banner.png)
 a "very good" snowboard ios theme
 ## style guide (if you want to make your own icon)
 - 512x512 icons
