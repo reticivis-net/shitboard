@@ -6,4 +6,4 @@ Description: a "very good" theme
 Author: melody
 Maintainer: melody
 Section: Themes
-Depends: com.spark.snowboard, com.spark.snowboard.settingsicons
+Depends: com.spark.snowboard, com.spark.snowboard.settingsicons, com.spark.snowboard.masks, com.spark.snowboard.ui

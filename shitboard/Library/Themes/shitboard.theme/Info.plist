@@ -1,18 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-  <plist version="1.0">
-  <dict>
-	<key>FuzzyBundleIdentifiers</key>
-	<array>
-		<string>com.rileytestut.AltStore</string>
-		<string>com.odysseyteam.taurine</string>
-		<string>science.xnu.undecimus</string>
-	</array>
-    <key>IB-MaskIcons</key>
-    <true/>
-    <key>PackageName</key>
-    <string>shitboard</string>
-    <key>ThemeType</key>
-    <string>Icons</string>
-  </dict>
+<plist version="1.0">
+    <dict>
+        <key>FuzzyBundleIdentifiers</key>
+        <array>
+            <string>com.rileytestut.AltStore</string>
+            <string>com.odysseyteam.taurine</string>
+            <string>science.xnu.undecimus</string>
+        </array>
+        <key>IB-MaskIcons</key>
+        <true/>
+        <key>PackageName</key>
+        <string>shitboard</string>
+        <key>ThemeType</key>
+        <string>Icons</string>
+        <key>CalendarIconDateSettings</key>
+        <dict>
+            <key>FontSize</key>
+            <integer>0</integer>
+        </dict>
+        <key>CalendarIconDaySettings</key>
+        <dict>
+            <key>FontSize</key>
+            <integer>0</integer>
+        </dict>
+    </dict>
 </plist>
