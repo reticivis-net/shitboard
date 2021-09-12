@@ -33,7 +33,7 @@ outfile = f"""
         .flex-container > img {{
             width: 60px;
             margin: 10px;
-            border-radius: 13px;
+            border-radius: 21.67%;
         }}
     </style>
 </head>
