@@ -1,0 +1,1 @@
+these icons are exported 512x512 here and then downsized to 59x59 ("@2x") and 89x89 ("@3x") into the theme
