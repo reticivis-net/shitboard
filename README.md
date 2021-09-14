@@ -14,3 +14,5 @@ a "very good" snowboard ios theme
 - icons with text can be misspelled or changed for comedic effect (ie calendar)
 
 ![preview](preview.png)
+
+![settings preview](settingspreview.png)
